@@ -1,0 +1,50 @@
+item,domain,component,nhanes_file,variable,scoring_rule,mapping_note,source
+1,Cognition,experience confusion/memory problems,PFQ_J,PFQ057,yes=1; no=0,,PMID42410780 Supplementary Table S1
+2,Dependence,managing money difficulty,PFQ_J,PFQ061A,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+3,Dependence,walking for a quarter mile difficulty,PFQ_J,PFQ061B,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+4,Dependence,walking up ten steps difficulty,PFQ_J,PFQ061C,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+5,Dependence,stooping crouching kneeling difficulty,PFQ_J,PFQ061D,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+6,Dependence,lifting or carrying difficulty,PFQ_J,PFQ061E,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+7,Dependence,house chore difficulty,PFQ_J,PFQ061F,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+8,Dependence,preparing meals difficulty,PFQ_J,PFQ061G,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+9,Dependence,standing up from armless chair difficulty,PFQ_J,PFQ061I,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+10,Dependence,getting in and out of bed difficulty,PFQ_J,PFQ061J,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+11,Dependence,using fork knife drinking from cup difficulty,PFQ_J,PFQ061K,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+12,Dependence,dressing yourself difficulty,PFQ_J,PFQ061L,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+13,Dependence,standing for long periods difficulty,PFQ_J,PFQ061M,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+14,Dependence,grasp holding small objects difficulty,PFQ_J,PFQ061P,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+15,Dependence,attending social event difficulty,PFQ_J,PFQ061R,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+16,Dependence,leisure activity at home difficulty,PFQ_J,PFQ061S,no difficulty=0; some=0.33; much=0.66; unable=1,,PMID42410780 Supplementary Table S1
+17,Dependence,push or pull large objects difficulty,PFQ_J,PFQ061T,no difficulty=0; some=0.33; much=0.66; unable=1,2017-2018 label is moving large objects; semantic correspondence to supplement wording,PMID42410780 Supplementary Table S1
+18,Depressive Conditions,have little interest in doing things,DPQ_J,DPQ010,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+19,Depressive Conditions,feeling down depressed or hopeless,DPQ_J,DPQ020,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+20,Depressive Conditions,trouble sleeping or sleeping too much,DPQ_J,DPQ030,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+21,Depressive Conditions,feeling tired or having little energy,DPQ_J,DPQ040,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+22,Depressive Conditions,poor appetite or overeating,DPQ_J,DPQ050,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+23,Depressive Conditions,feeling bad about yourself,DPQ_J,DPQ060,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+24,Depressive Conditions,trouble concentrating on things,DPQ_J,DPQ070,nearly every day=1; more than half=0.66; several days=0.33; no=0,,PMID42410780 Supplementary Table S1
+25,Comorbidities,doctor ever said you had arthritis,MCQ_J,MCQ160A,yes=1; no=0,,PMID42410780 Supplementary Table S1
+26,Comorbidities,ever told you had thyroid problem,MCQ_J,MCQ160M,yes=1; no=0,,PMID42410780 Supplementary Table S1
+27,Comorbidities,ever told you had chronic bronchitis,MCQ_J,MCQ160K,yes=1; no=0,,PMID42410780 Supplementary Table S1
+28,Comorbidities,ever told you had cancer or malignancy,MCQ_J,MCQ220,yes=1; no=0,,PMID42410780 Supplementary Table S1
+29,Comorbidities,ever told had congestive heart failure,MCQ_J,MCQ160B,yes=1; no=0,,PMID42410780 Supplementary Table S1
+30,Comorbidities,ever told you had coronary heart disease,MCQ_J,MCQ160C,yes=1; no=0,,PMID42410780 Supplementary Table S1
+31,Comorbidities,ever told you had angina angina pectoris,MCQ_J,MCQ160D,yes=1; no=0,,PMID42410780 Supplementary Table S1
+32,Comorbidities,ever told you had heart attack,MCQ_J,MCQ160E,yes=1; no=0,,PMID42410780 Supplementary Table S1
+33,Comorbidities,ever told you had a stroke,MCQ_J,MCQ160F,yes=1; no=0,,PMID42410780 Supplementary Table S1
+34,Comorbidities,ever told you had high blood pressure,BPQ_J,BPQ020,yes=1; no=0,,PMID42410780 Supplementary Table S1
+35,Comorbidities,doctor told you have diabetes,DIQ_J,DIQ010,yes=1; borderline=0.5; no=0,,PMID42410780 Supplementary Table S1
+36,Comorbidities,ever told you had weak or failing kidneys,KIQ_U_J,KIQ022,yes=1; no=0,,PMID42410780 Supplementary Table S1
+37,Comorbidities,urine leakage bother you,KIQ_U_J,KIQ050,greatly=1; very much=0.75; somewhat=0.5; only a little=0.25; no=0,,PMID42410780 Supplementary Table S1
+38,Hospital and Care,general health condition,HUQ_J,HUQ010,excellent very good good=0; fair poor=1,,PMID42410780 Supplementary Table S1
+39,Hospital and Care,health now compared with 1 year ago,HUQ_J,HUQ020,worse=1; better=0; same=0.5 primary,NHANES codes 1=better; 2=same; 3=worse; same=0 and same=1 are sensitivity analyses,PMID42410780 Supplementary Table S1
+40,Hospital and Care,overnight hospital patient in last year,HUQ_J,HUQ071,yes=1; no=0,,PMID42410780 Supplementary Table S1
+41,Hospital and Care,times receive healthcare over past year,HUQ_J,HUQ051,no=0; 1-4=0.5; 5 or more=1,,PMID42410780 Supplementary Table S1
+42,Hospital and Care,number of prescription medicines taken,RXQ_RX_J,RXDCOUNT,no=0; 1-4=0.5; 5 or more=1,RXDUSE=2 is explicitly coded as no prescription medicine and scored 0,PMID42410780 Supplementary Table S1
+43,Physical Anthropometry,body mass index,BMX_J,BMXBMI,<18.5 or >=30=1; >=18.5 and <25=0; >=25 and <30=0.5,,PMID42410780 Supplementary Table S1
+44,Laboratory values,glycohemoglobin,GHB_J,LBXGH,0-5.7=0; >5.7=1,,PMID42410780 Supplementary Table S1
+45,Laboratory values,red blood cell count,CBC_J,LBXRBCSI,male >=4.7 and <6.1=0; female >=4.2 and <5.4=0; otherwise=1,sex-specific range from supplement,PMID42410780 Supplementary Table S1
+46,Laboratory values,hemoglobin,CBC_J,LBXHGB,male >=13.5 and <18=0; female >=12 and <16=0; otherwise=1,sex-specific range from supplement,PMID42410780 Supplementary Table S1
+47,Laboratory values,red cell distribution width,CBC_J,LBXRDW,>=11.6 and <14.6=0; otherwise=1,,PMID42410780 Supplementary Table S1
+48,Laboratory values,lymphocyte percent,CBC_J,LBXLYPCT,>=20 and <40=0; otherwise=1,,PMID42410780 Supplementary Table S1
+49,Laboratory values,segmented neutrophils percent,CBC_J,LBXNEPCT,>=40 and <80=0; otherwise=1,,PMID42410780 Supplementary Table S1

@@ -1,0 +1,19 @@
+file,source_url,role
+DEMO_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DEMO_J.xpt,Demographics and survey design variables
+DR1IFF_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DR1IFF_J.xpt,Day-one individual food records
+DR1TOT_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DR1TOT_J.xpt,Day-one dietary totals and weight
+BMX_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BMX_J.xpt,Body measures
+PFQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/PFQ_J.xpt,Physical functioning variables
+MCQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/MCQ_J.xpt,Medical conditions
+DPQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DPQ_J.xpt,Depression variables
+BPQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BPQ_J.xpt,Blood pressure questionnaire
+DIQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/DIQ_J.xpt,Diabetes questionnaire
+HUQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/HUQ_J.xpt,Health utilization and self-rated health
+RXQ_RX_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/RXQ_RX_J.xpt,Prescription medication variables
+KIQ_U_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/KIQ_U_J.xpt,Kidney and urinary variables
+GHB_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/GHB_J.xpt,Glycohemoglobin
+CBC_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/CBC_J.xpt,Complete blood count
+PAQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/PAQ_J.xpt,Physical activity variables
+SMQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/SMQ_J.xpt,Smoking variables
+ALQ_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/ALQ_J.xpt,Alcohol use variables
+NHANES_2017_2018_MORT_2019_PUBLIC.dat,https://ftp.cdc.gov/pub/Health_Statistics/NCHS/datalinkage/linked_mortality/NHANES_2017_2018_MORT_2019_PUBLIC.dat,Linked mortality status and follow-up

@@ -1,0 +1,23 @@
+# Source data and participant-level intermediates
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated results and logs
+results/*
+!results/tables/.gitkeep
+!results/figures/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Local runtime files
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
