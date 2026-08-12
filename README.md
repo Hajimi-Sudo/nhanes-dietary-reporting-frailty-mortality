@@ -1,10 +1,10 @@
-# NHANES Dietary Reporting, Frailty, and Mortality
+# TRACE-FI: NHANES Dietary Reporting Frailty and Mortality
 
 Recommended GitHub repository name: `nhanes-dietary-reporting-frailty-mortality`
 
-This repository contains the reproducible analysis code for the manuscript:
+This repository contains the reproducible analysis code for the TRACE-FI manuscript:
 
-> A Measurement-Aware Survey-Weighted Analytical Framework for Dietary Reporting, Frailty, and Mortality in Older Adults
+> TRACE-FI: A Measurement-Aware Framework for Survey-Weighted Associations of Dietary Reporting with Frailty and Mortality
 
 The workflow uses NHANES 2017--2018 files and the corresponding linked mortality file. It constructs the prespecified Frailty Index, performs survey-weighted logistic and Cox models, runs sensitivity analyses, and generates manuscript tables and figures.
 
