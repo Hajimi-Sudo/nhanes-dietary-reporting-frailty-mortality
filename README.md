@@ -4,7 +4,7 @@ Recommended GitHub repository name: `nhanes-dietary-reporting-frailty-mortality`
 
 This repository contains the reproducible analysis code for the manuscript:
 
-> An Estimand-Aware Survey-Weighted Framework for Linking Dietary Reporting, Frailty, and Mortality in Older Adults: An NHANES Analysis
+> A Measurement-Aware Survey-Weighted Analytical Framework for Dietary Reporting, Frailty, and Mortality in Older Adults
 
 The workflow uses NHANES 2017--2018 files and the corresponding linked mortality file. It constructs the prespecified Frailty Index, performs survey-weighted logistic and Cox models, runs sensitivity analyses, and generates manuscript tables and figures.
 
@@ -43,8 +43,11 @@ Rscript scripts/analysis/run_selection_and_quantile_sensitivity.R .
 Rscript scripts/analysis/run_mortality_no_fi_sensitivity.R .
 Rscript scripts/analysis/run_model_diagnostics.R .
 Rscript scripts/analysis/run_result_visualization_summaries.R .
+Rscript scripts/analysis/run_internal_validation.R .
 python scripts/reporting/generate_manuscript_outputs.py
 ```
+
+The internal validation script performs 50 repeated, survey-design-preserving holdouts. One PSU is held out within each NHANES stratum, the primary dietary-day weight is retained, and held-out discrimination, calibration and association stability are summarized. This is an internal transportability and calibration check, not external or causal validation.
 
 The scripts accept the repository root as their only positional argument so that they can run on a server without hard-coded local paths.
 

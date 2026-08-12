@@ -13,4 +13,5 @@ Rscript scripts/analysis/run_selection_and_quantile_sensitivity.R "$REPO_ROOT"
 Rscript scripts/analysis/run_mortality_no_fi_sensitivity.R "$REPO_ROOT"
 Rscript scripts/analysis/run_model_diagnostics.R "$REPO_ROOT"
 Rscript scripts/analysis/run_result_visualization_summaries.R "$REPO_ROOT"
+Rscript scripts/analysis/run_internal_validation.R "$REPO_ROOT"
 python scripts/reporting/generate_manuscript_outputs.py
